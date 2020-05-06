@@ -1,0 +1,32 @@
+
+html {
+	margin: 0;
+	padding: 0;
+    background-color: #71BBD9;
+}
+body {
+	width: 70%;
+	margin: 0 auto;
+	font: 100% Arial, Helvetica, sans-serif;
+	padding: 1em 100px;
+    background: white;
+    border-bottom: 10px solid gold;
+}
+h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 2em;
+	font-weight: normal;
+	font-style: italic;
+	margin: 0 0 .4em;
+	padding: 5px 10px;
+	color: #71BBD9;
+    
+}
+p {
+	line-height: 1.6;
+	text-align: justify;
+	width: 60%;
+	margin: 0;
+	margin-bottom: 1em;
+}
+
